@@ -1,9 +1,9 @@
 ## Dieta.AI
 Um aplicativo que cria dietas personalizadas utilizando inteligência artificial, recomendando refeições com base nos seus objetivos.
 
-<img src="https://github.com/user-attachments/assets/68d7a4b0-ace4-4120-855c-645fa16281a6" alt="Descrição da Imagem" style="max-width: 100px;" />
-<img src="https://github.com/user-attachments/assets/8f8e0eb8-4746-4a9b-9753-99c19ce5ddb2" alt="Descrição da Imagem" style="max-width: 100px;" />
-<img src="https://github.com/user-attachments/assets/6aeaf9e5-7a6e-4a3b-adca-627f0213079f" alt="Descrição da Imagem" style="max-width: 100px;" />
+<img src="https://github.com/user-attachments/assets/68d7a4b0-ace4-4120-855c-645fa16281a6" alt="Descrição da Imagem" style="width: 100px;" />
+<img src="https://github.com/user-attachments/assets/8f8e0eb8-4746-4a9b-9753-99c19ce5ddb2" alt="Descrição da Imagem" style="width: 100px;" />
+<img src="https://github.com/user-attachments/assets/6aeaf9e5-7a6e-4a3b-adca-627f0213079f" alt="Descrição da Imagem" style="width: 100px;" />
 
 
 ### Funcionalidades
